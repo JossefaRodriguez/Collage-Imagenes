@@ -37,6 +37,7 @@ app.post('/imagen', (req, res) => {
         } else{
             //res.send('Archivo cargado con éxito')
             res.redirect('/imagenes' )
+            //res.send("<script>alert('Archivo cargado con exito'); window.location.href='/imagenes'</script>")
         
         }
     })
