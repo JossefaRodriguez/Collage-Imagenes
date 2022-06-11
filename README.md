@@ -6,7 +6,7 @@
 - Postman y body-parser
 - Eliminando archivos
 
-###REQUERIMIENTOS
+### REQUERIMIENTOS
 
 1. Integrar express-fileupload a Express.
 2. Definir que el límite para la carga de imágenes es de 5MB.
